@@ -76,4 +76,4 @@ Server Connections
 The servers are in a randomly organized tree-structure. The distance from 
 the home computer to each server is fixed, but the exact route to them is 
 randomized when you install :ref:`gameplay_augmentations`. In general the 
-further away from home computer a server is the higher it's statistics are.
+further away from home computer a server is the higher its statistics are.
